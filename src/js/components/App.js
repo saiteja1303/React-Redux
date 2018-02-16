@@ -24,7 +24,7 @@ export default class App extends Component {
         <div className="App">
           <header>
             <h1 >
-              Welcome to My KTM Online Store
+              Welcome to KTM Online Store <br/> By Saiteja
           </h1>
           </header>
           <div className="row">
